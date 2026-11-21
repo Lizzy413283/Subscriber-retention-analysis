@@ -1,0 +1,21 @@
+feature,coefficient,odds_ratio,direction
+offline_listening,0.123,1.13,Raises churn risk
+subscription_type_Premium,-0.12,0.887,Lowers churn risk
+ads_listened_per_week,0.092,1.097,Raises churn risk
+country_PK,0.086,1.09,Raises churn risk
+country_DE,0.081,1.084,Raises churn risk
+country_FR,0.08,1.084,Raises churn risk
+subscription_type_Student,-0.07,0.932,Lowers churn risk
+country_IN,-0.067,0.935,Lowers churn risk
+device_type_Mobile,0.057,1.059,Raises churn risk
+gender_Male,-0.052,0.949,Lowers churn risk
+country_UK,-0.05,0.952,Lowers churn risk
+country_CA,-0.05,0.952,Lowers churn risk
+subscription_type_Free,-0.038,0.962,Lowers churn risk
+device_type_Web,-0.038,0.963,Lowers churn risk
+skip_rate,0.038,1.039,Raises churn risk
+songs_played_per_day,0.019,1.019,Raises churn risk
+listening_time,-0.015,0.985,Lowers churn risk
+age,0.007,1.007,Raises churn risk
+country_US,-0.007,0.993,Lowers churn risk
+gender_Other,-0.005,0.995,Lowers churn risk

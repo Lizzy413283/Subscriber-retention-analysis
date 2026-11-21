@@ -1,0 +1,30 @@
+# Python environments
+.venv/
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor and tool folders
+.vscode/
+.qodo/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials and local config
+.env
+config.ini
+secrets.*
+
+# SQL Server local files
+.bak
+.mdf
+.ldf

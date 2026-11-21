@@ -1,0 +1,55 @@
+segment_type,segment,users,churned_users,churn_rate,share_of_all_churn
+Subscription type,Family,1908,525,0.275,0.254
+Subscription type,Free,2018,503,0.249,0.243
+Subscription type,Premium,2115,530,0.251,0.256
+Subscription type,Student,1959,513,0.262,0.248
+Country,AU,1034,266,0.257,0.128
+Country,CA,954,237,0.248,0.114
+Country,DE,1015,277,0.273,0.134
+Country,FR,989,269,0.272,0.13
+Country,IN,1011,246,0.243,0.119
+Country,PK,999,275,0.275,0.133
+Country,UK,966,239,0.247,0.115
+Country,US,1032,262,0.254,0.127
+Device,Desktop,2778,715,0.257,0.345
+Device,Mobile,2599,699,0.269,0.338
+Device,Web,2623,657,0.25,0.317
+Age group,Under 25,1667,416,0.25,0.201
+Age group,25-34,1728,464,0.269,0.224
+Age group,35-44,1815,460,0.253,0.222
+Age group,45+,2790,731,0.262,0.353
+Gender,Female,2659,699,0.263,0.338
+Gender,Male,2691,678,0.252,0.327
+Gender,Other,2650,694,0.262,0.335
+Country x Subscription,AU | Family,263,80,0.304,0.039
+Country x Subscription,AU | Free,247,51,0.206,0.025
+Country x Subscription,AU | Premium,269,69,0.257,0.033
+Country x Subscription,AU | Student,255,66,0.259,0.032
+Country x Subscription,CA | Family,235,62,0.264,0.03
+Country x Subscription,CA | Free,246,57,0.232,0.028
+Country x Subscription,CA | Premium,234,57,0.244,0.028
+Country x Subscription,CA | Student,239,61,0.255,0.029
+Country x Subscription,DE | Family,257,65,0.253,0.031
+Country x Subscription,DE | Free,249,70,0.281,0.034
+Country x Subscription,DE | Premium,252,68,0.27,0.033
+Country x Subscription,DE | Student,257,74,0.288,0.036
+Country x Subscription,FR | Family,231,62,0.268,0.03
+Country x Subscription,FR | Free,252,66,0.262,0.032
+Country x Subscription,FR | Premium,274,76,0.277,0.037
+Country x Subscription,FR | Student,232,65,0.28,0.031
+Country x Subscription,IN | Family,220,53,0.241,0.026
+Country x Subscription,IN | Free,255,69,0.271,0.033
+Country x Subscription,IN | Premium,285,65,0.228,0.031
+Country x Subscription,IN | Student,251,59,0.235,0.028
+Country x Subscription,PK | Family,252,75,0.298,0.036
+Country x Subscription,PK | Free,265,65,0.245,0.031
+Country x Subscription,PK | Premium,235,57,0.243,0.028
+Country x Subscription,PK | Student,247,78,0.316,0.038
+Country x Subscription,UK | Family,207,60,0.29,0.029
+Country x Subscription,UK | Free,249,56,0.225,0.027
+Country x Subscription,UK | Premium,282,60,0.213,0.029
+Country x Subscription,UK | Student,228,63,0.276,0.03
+Country x Subscription,US | Family,243,68,0.28,0.033
+Country x Subscription,US | Free,255,69,0.271,0.033
+Country x Subscription,US | Premium,284,78,0.275,0.038
+Country x Subscription,US | Student,250,47,0.188,0.023
