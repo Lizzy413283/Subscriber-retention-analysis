@@ -156,7 +156,8 @@ Planned views: churned users by country, drivers of churn (logistic regression c
 
 ## 7. Acknowledgements and references
 
-- Dataset: [credit the dataset creator and link to the source]
+- Dataset: Spotify Analysis Dataset 2025 by Nabiha Zahid 
+ source link:https://www.kaggle.com/datasets/nabihazahid/spotify-dataset-for-churn-analysis/data
 - Built with pandas, NumPy, matplotlib, seaborn, SciPy, scikit-learn, SQLAlchemy and pyodbc
 
 
